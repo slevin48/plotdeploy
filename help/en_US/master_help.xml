@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY a40a7ccaeb689fe20fd8718fb022b91e0 SYSTEM "file:///C:/Users/ydb/devel/plotdeploy/help/en_US/plotdeploy.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='plotdeploy_manual'>
+    <title>plotdeploy</title>
+  </info>
+
+<part xml:id='section_50f3e406b5a1f40748a788deb5f9e8e3'>
+<title>plotdeploy</title>
+&a40a7ccaeb689fe20fd8718fb022b91e0;
+</part>
+</book>
