@@ -42,5 +42,6 @@ In this simple demonstration, we deploy a Scilab plot on a simple URL:
 
 You simply need to replace the name of your heroku app to replicate it.
 
-## Source:
-[How to deploy a Simple Static HTML Website on Heroku](https://medium.com/@agavitalis/how-to-deploy-a-simple-static-html-website-on-heroku-492697238e48)
+## Resources:
+* [How to deploy a Simple Static HTML Website on Heroku](https://medium.com/@agavitalis/how-to-deploy-a-simple-static-html-website-on-heroku-492697238e48)
+* [A Simple Serverless Reporting Endpoint Based on Jupyter Notebooks](https://medium.com/@_orcaman/a-simple-serverless-reporting-endpoint-based-on-jupyter-notebooks-4cf3e1d15ebe)
